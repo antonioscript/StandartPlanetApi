@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GXWoZu/W5V/Lom7GzM6fD1h7BBA1TpTJBSJ/GRuWxYs=",
+  "Source": "DockerPlanet",
+  "BasePath": "_content/DockerPlanet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
